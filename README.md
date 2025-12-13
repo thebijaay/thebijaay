@@ -1,5 +1,5 @@
 # 💫 About Me:
-Jay Prasad Majhi<br>AI Developer | Cybersecurity Specialist | IT Consultant<br><br>Certified Cybersecurity (CC) professional with expertise in Networking, Security Infrastructure, IT systems, and website development. Transforming businesses with intelligent AI solutions and secure infrastructure.<br><br>3+<br>Years Experience<br>Jay Prasad Majhi<br>AI Developer & Cybersecurity Specialist<br><br>I am a Certified Cybersecurity (CC) professional with extensive expertise in Networking, Security Infrastructure, IT systems, and website development.<br>Leadership role in youth organization, managing events, community projects, and technology workshops for teenagers.<br>info@jayprasad.com.np
+Jay Prasad Majhi<br>AI Developer | Cybersecurity Specialist | IT Consultant<br><br>Certified Cybersecurity (CC) professional with expertise in Networking, Security Infrastructure, IT systems, and website development. <br>Leadership role in youth organization, managing events, community projects, and technology workshops for teenagers.<br>info@jayprasad.com.np
 
 
 ## 🌐 Socials:

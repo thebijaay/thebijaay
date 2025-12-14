@@ -9,13 +9,11 @@ Jay Prasad Majhi<br>AI Developer | Cybersecurity Specialist | IT Consultant<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thebijaay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thebijaay&theme=github_dark)
+- **⭐ Stars Earned:** 2,000+
+- **🚀 Total Commits:** 12,500+<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=thebijaay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thebijaay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Achievements:
-- ⭐ **2,000+ Stars** earned across repositories
-- 🚀 **12,500+ Commits** and counting
-- 🔥 Consistent contributor and open-source enthusiast
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thebijaay&icon=0&color=0)](https://visitcount.itsvg.in)

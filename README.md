@@ -9,11 +9,16 @@ Jay Prasad Majhi<br>AI Developer | Cybersecurity Specialist | IT Consultant<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thebijaay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thebijaay&theme=github_dark)
-- **⭐ Stars Earned:** 2,000+
-- **🚀 Total Commits:** 12,500+<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=thebijaay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thebijaay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📈 Most Used Languages
+![Python](https://img.shields.io/badge/Python-75%25-blue?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-20%25-orange?style=for-the-badge&logo=html5&logoColor=white)
+![Other](https://img.shields.io/badge/Other%20Languages-5%25-lightgrey?style=for-the-badge)
+
+**GitHub Achievements:**
+- **⭐ Stars Earned:** 2,000+
+- **🚀 Total Commits:** 12,500+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thebijaay&icon=0&color=0)](https://visitcount.itsvg.in)
